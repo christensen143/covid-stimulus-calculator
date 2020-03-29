@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Button, Card, Col, Container, Form, Row } from 'react-bootstrap';
 
 const App = () => {
-  const [filingStatus, setFilingStatus] = useState('Single');
+  const [filingStatus, setFilingStatus] = useState('');
   const [rebate, setRebate] = useState(0);
   const [agi, setAgi] = useState(0);
   const [children, setChildren] = useState(0);
@@ -18,6 +18,8 @@ const App = () => {
     setRebate(0);
     setAgi(0);
     setChildren(0);
+    var ele = document.getElementsByName('filingStatus');
+    for (var i = 0; i < ele.length; i++) ele[i].checked = false;
   };
 
   const calculateRebate = () => {
