@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-stimulus-calculator/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/covid-stimulus-calculator/static/js/main.49f7ab8a.chunk.js",
+    "main.js.map": "/covid-stimulus-calculator/static/js/main.49f7ab8a.chunk.js.map",
+    "runtime-main.js": "/covid-stimulus-calculator/static/js/runtime-main.e2358fd1.js",
+    "runtime-main.js.map": "/covid-stimulus-calculator/static/js/runtime-main.e2358fd1.js.map",
+    "static/css/2.89f067aa.chunk.css": "/covid-stimulus-calculator/static/css/2.89f067aa.chunk.css",
+    "static/js/2.962c80ca.chunk.js": "/covid-stimulus-calculator/static/js/2.962c80ca.chunk.js",
+    "static/js/2.962c80ca.chunk.js.map": "/covid-stimulus-calculator/static/js/2.962c80ca.chunk.js.map",
+    "index.html": "/covid-stimulus-calculator/index.html",
+    "precache-manifest.ee84aad7881d718a6cb9c8a0c8232f26.js": "/covid-stimulus-calculator/precache-manifest.ee84aad7881d718a6cb9c8a0c8232f26.js",
+    "service-worker.js": "/covid-stimulus-calculator/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/covid-stimulus-calculator/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/covid-stimulus-calculator/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.962c80ca.chunk.js.LICENSE.txt": "/covid-stimulus-calculator/static/js/2.962c80ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2358fd1.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.962c80ca.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.49f7ab8a.chunk.js"
+  ]
+}
