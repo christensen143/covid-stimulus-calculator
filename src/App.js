@@ -15,9 +15,9 @@ const App = () => {
   const handleReset = e => {
     e.preventDefault();
     setFilingStatus('');
-    setRebate('');
-    setAgi('');
-    setChildren('');
+    setRebate(0);
+    setAgi(0);
+    setChildren(0);
   };
 
   const calculateRebate = () => {
