@@ -1,7 +1,8 @@
 {
   "homepage": "http://christensen143.github.io/covid-stimulus-calculator",
   "name": "covid-stimulus-calculator",
-  "version": "0.1.0",
+  "author": "Chris Christensen",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
