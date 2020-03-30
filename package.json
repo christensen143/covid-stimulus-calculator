@@ -1,7 +1,7 @@
 {
   "homepage": "http://christensen143.github.io/covid-stimulus-calculator",
   "name": "covid-stimulus-calculator",
-  "author": "Chris Christensen",
+  "author": "Chris Christensen <christensen143@gmail.com> (https://www.varlogchris.com)",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
